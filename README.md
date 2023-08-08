@@ -3,6 +3,10 @@ MERN AI Image Generation Project
 
 The MERN AI Image Generation project is a full-stack web application that leverages artificial intelligence (AI) to generate images based on user input or specific criteria. The project is built using the MERN stack (MongoDB, Express, React, Node.js), which provides a robust and scalable foundation for developing modern web applications with AI capabilities.
 
+DEMO
+-
+https://ai-image-generation-dan.vercel.app
+
 Features
 -
 AI-powered image generation based on user input or selected parameters.
